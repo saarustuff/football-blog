@@ -103,3 +103,28 @@ top players & top blogs
     filter: drop-shadow(0px 0px 13px rgba(24, 21, 218, 0.123));
 }
 
+/*---------------------------
+            footer
+-------------------------- */
+footer{
+    margin-top: 158px;
+}
+.footer-details{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+.logo img{
+width: 438px;
+margin-bottom: 20px;
+margin-bottom: 0px;
+}
+.social-links{
+    font-size: 32px;
+    display: flex;
+    gap: 0 30px;
+}
+.copyright{
+    margin-top: -5px;
+    font-size: 20px;
+}
