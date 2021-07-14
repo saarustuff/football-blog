@@ -189,3 +189,16 @@ margin-bottom: 0px;
     margin-top: -5px;
     font-size: 20px;
 }
+.fa-instagram-square:hover{
+    color: #cc0c82;
+ }
+.fa-facebook-square:hover{
+    color: rgb(52, 52, 253);
+ }
+.fa-twitter-square:hover{
+     color: rgb(32, 90, 250);
+ }
+.fa-youtube-square:hover{
+     color: rgb(241, 11, 11);}
+/* responsive */
+
